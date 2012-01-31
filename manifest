@@ -1,0 +1,7 @@
+d kernel 0755 root sys
+d kernel/misc 0755 root sys
+d kernel/misc/amd64 0755 root sys
+f kernel/misc/amd64/virtio 0755 root sys
+d kernel/drv 0755 root sys
+d kernel/drv/amd64 0755 root sys
+f kernel/drv/amd64/vioblk 0755 root sys
